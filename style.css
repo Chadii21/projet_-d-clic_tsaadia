@@ -71,6 +71,29 @@
     color: white;
     padding-top: 100px;
 }
+.Apprenants {
+    background-image: url("./app1.avif");
+    background-size: cover;
+    /* background-color: green; */
+    height: 580px;
+    color: white;
+}
+.Apprenants h1 {
+    padding-left: 50px;
+    padding-top: 80px;
+    font-size: 60px;
+}
+.Entreprises {
+    background-image: url("./ent.avif");
+    background-size: cover;
+    /* background-color: green; */
+    height: 580px;
+}
+.Entreprises h1 {
+    padding-left: 600px;
+    padding-top: 100px;
+    font-size: 60px;
+}
 .container-fluid {
     padding-left: 40px;
 }
@@ -83,6 +106,51 @@
     width: 600px;
     padding-left: 10px;
     padding-top: 10px;
+}
+.app {
+    background-color: green;
+    font-size: 20px;
+    border-radius: 5px;
+    list-style: none;
+    color: #000;
+}
+.f1 {
+    display: flex;
+    padding: 25px 25px 5px 6px;
+}
+.insc {
+    margin-left: 400px;
+    margin-right: 450px;
+    margin-top: 50px;
+    box-sizing: initial;
+    background-color: violet;
+    padding-bottom: 20px;
+}
+.form {
+    background-color: linear-gradient( rgb(5, 51, 144));
+}
+.fieldButton { 
+    /* width: 100%; */
+    height: calc(100% + 5px);
+    margin-top: 0px;
+    border: none;
+    background: green;
+    color: #fff;
+    font-size: 18px;
+    /* font-size: 500; */
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    cursor: pointer;
+    padding-bottom: 10px;
+    margin-left: 400px;
+}
+.ent {
+    background-color: orange;
+    font-size: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #000;
+    padding-left: 10px;
 }
 .im2 {
     padding-top: 10px;
