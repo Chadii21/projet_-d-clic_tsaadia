@@ -1,0 +1,148 @@
+.logo {
+    display: flex;
+    width: 65px;
+    font-weight: bold;
+    justify-content: space-between;
+}
+.D {
+    font-size: 20px;
+    color: red;
+}
+.Ci {
+    font-size: 20px;
+    color: orange;
+    padding-bottom: 5px;
+}
+.L {
+    font-size: 20px;
+    color: green;
+    padding-top: 5px;
+}
+.I {
+    font-size: 20px;
+    color: violet;
+}
+.C {
+    font-size: 20px;
+    color: blue;
+}
+.Accueil {
+    background-image: url("./home.jpg");
+    background-size: cover;
+    /* background-color: green; */
+    height: 580px;
+}
+.vid {
+    padding-left: 180px;
+    padding-bottom: 60px;
+}
+.activites {
+    background-image: url("./");
+    background-size: cover;
+    /* background-color: green; */
+    height: 600px;
+}
+.temoignages {
+    background-image: url("./testi1.avif");
+    background-size: cover;
+    /* background-color: green; */
+    height: 580px;
+}
+.temoignages h1 {
+    color: red;
+    font-size: 100px;
+    padding-top: 200px;
+    padding-left: 60px;
+}
+.contacts {
+    background-image: url("./contact-us_36325-2135.avif");
+    background-size: cover;
+    /* background-color: green; */
+    height: 580px;
+}
+.contacts h1 {
+    color: white;
+    padding-top: 400px;
+    padding-left: 300px;
+    font-size: 100px;
+}
+.formu {
+    background-color: green;
+    color: white;
+    padding-top: 100px;
+}
+.container-fluid {
+    padding-left: 40px;
+}
+.mauritanie {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.fotom {
+    height: 400px;
+    width: 600px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.im2 {
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.footer {
+    color: white;
+    background-color: black;
+    display: flex;
+    padding-top: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    /* justify-content: space-evenly; */
+    margin-top: 90px;
+}
+.im {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: space-around;
+}
+.quote {
+    background-color: blue;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    padding: 30px;
+    font-weight: bold;
+}
+.quotes {
+    height: 80px;
+    width: 80px;
+}
+.quotes1 {
+    height: 80px;
+    width: 80px;
+   margin-left: 970px;
+}
+.presentation {
+    padding-top: 90px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.f {
+    height: 160px;
+    width: 250px;
+}
+.services , .about , .contact {
+    padding-left: 80px;
+}
+b {
+    padding-top: 10px;
+}
+.pin {
+    color: white;
+    height: 60px;
+}
+.f3 {
+    padding-left: 26px;
+    display: flex;
+}
