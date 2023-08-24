@@ -37,22 +37,29 @@
     padding-bottom: 60px;
 }
 .activites {
-    background-image: url("./");
+    background-image: url("./acti.jpeg");
     background-size: cover;
     /* background-color: green; */
     height: 600px;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-bottom: 100px;
 }
 .temoignages {
-    background-image: url("./testi1.avif");
+    background-image: url("./certificate-with-ribbon-bow-books_23-2148769681.avif");
     background-size: cover;
     /* background-color: green; */
     height: 580px;
 }
 .temoignages h1 {
-    color: red;
+    color: green;
     font-size: 100px;
     padding-top: 200px;
-    padding-left: 60px;
+    padding-left: 700px;
+}
+.h3 {
+    margin-top: 30px;
+    margin-left: 360px;
 }
 .contacts {
     background-image: url("./contact-us_36325-2135.avif");
@@ -98,14 +105,66 @@
     padding-left: 40px;
 }
 .mauritanie {
-    padding-left: 20px;
-    padding-right: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 60px;
+}
+.tchad {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 60px;
+}
+.senegal {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 60px;
+}
+.bf {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 60px;
+}
+.madagascar {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 60px;
 }
 .fotom {
     height: 400px;
     width: 600px;
     padding-left: 10px;
     padding-top: 10px;
+}
+.temoins {
+    height: 500px;
+    width: 800px;
+    /* margin-left: 400px; */
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.demand {
+    display: flex;
+}
+.txt {
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+}
+.logos {
+    height: 20px;
+    width: 20px;
+    margin-left: 8px;
+    margin-top: 4px;
+}
+.tem {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.temtext {
+    padding-top: 80px;
+    padding-left: 80px;
 }
 .app {
     background-color: green;
