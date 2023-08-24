@@ -136,7 +136,7 @@
     padding-top: 10px;
 }
 .temoins {
-    height: 550px;
+    height: 350px;
     width: 600px;
     margin-left: 100px;
     margin-top: 20px;
@@ -191,7 +191,7 @@
     margin-right: 450px;
     margin-top: 50px;
     box-sizing: initial;
-    background-color: violet;
+    background-color: red;
     padding-bottom: 20px;
 }
 .form {
