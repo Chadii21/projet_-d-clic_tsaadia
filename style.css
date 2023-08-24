@@ -136,9 +136,9 @@
     padding-top: 10px;
 }
 .temoins {
-    height: 500px;
-    width: 800px;
-    /* margin-left: 400px; */
+    height: 550px;
+    width: 600px;
+    margin-left: 100px;
     margin-top: 20px;
     border-radius: 20px;
 }
@@ -148,7 +148,16 @@
 .txt {
     color: black;
     font-weight: bold;
-    font-size: 17px;
+    font-size: 20px;
+}
+.cart1 {
+    background-color: black;
+    color: #fff;
+    /* margin-right: 400px; */
+    margin-left: 20px;
+}
+.jobs {
+    display: flex;
 }
 .logos {
     height: 20px;
@@ -164,7 +173,7 @@
 }
 .temtext {
     padding-top: 80px;
-    padding-left: 80px;
+    padding-left: 10px;
 }
 .app {
     background-color: green;
